@@ -3,6 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <stddef.h>
 #define MAX(X, Y) (((X) > (Y)) ? (X) : (Y))
 /**
  * struct binary_tree_s - Binary tree node
