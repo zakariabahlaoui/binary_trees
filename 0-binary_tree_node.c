@@ -3,7 +3,7 @@
 /**
  * binary_tree_node - create a binary node
  * @parent: the parent of node
- * @value: the value of the node
+ * @value: the value of the  node
  *
  * Return:  return new node
  */
